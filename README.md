@@ -1,6 +1,6 @@
 # Framework jeux de cartes   
 
-<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white"/>    
+<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>   
 
 *Projet réalisé en binôme dans le cadre du cours "Langages à Objets Avancés"*   
 **Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**
